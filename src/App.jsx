@@ -85,7 +85,7 @@ function App() {
             Hi, I am Ralph Gener Almazan Sison.
           </h1>
           <p className="mt-4 max-w-2xl text-slate-300">
-            I am based in Pangasinan and build modern web applications with
+            I build modern web applications with
             practical features, clean interfaces, and reliable backend services.
           </p>
           <div className="mt-7 flex flex-wrap gap-3">
@@ -186,7 +186,6 @@ function App() {
             <a className="underline underline-offset-3" href="tel:+639626699048">
               +63 945 273 3840
             </a>
-            <p>Pangasinan</p>
           </div>
         </section>
       </main>
